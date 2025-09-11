@@ -5,5 +5,5 @@ def string_operations(text, perform_operations=True):
     else:
         return text  # Just return the string as it is
 
-print(string_operations("hello world"))                # Performs operations
-print(string_operations("hello world", False))        # Just returns string
+print(string_operations("hello world"))                
+print(string_operations("hello world", False))        
